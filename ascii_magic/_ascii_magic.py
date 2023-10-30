@@ -1,4 +1,4 @@
-from ascii_magic.constants import PALETTE, CHARS_BY_DENSITY, DEFAULT_STYLES
+from ascii_magic.ascii_magic.constants import PALETTE, CHARS_BY_DENSITY, DEFAULT_STYLES
 
 import colorama
 import webbrowser
