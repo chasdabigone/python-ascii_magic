@@ -3,7 +3,7 @@ sys.path.append(os.path.abspath(".."))
 
 try:
   import google.colab  # so I only do it when I'm on google colab
-  sys.path.insert(0, "/content/submodule")
+  sys.path.insert(0, "/content/ascii_magic")
 except:
   pass
 
