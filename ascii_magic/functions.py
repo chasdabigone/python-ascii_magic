@@ -1,4 +1,4 @@
-from ascii_magic._ascii_magic import AsciiArt
+from ascii_magic.ascii_magic._ascii_magic import AsciiArt
 
 from PIL import Image
 
